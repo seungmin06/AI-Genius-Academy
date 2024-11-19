@@ -15,7 +15,7 @@
 - 의자 아래 카메라를 두고 직접 학습시킨 종아리 사진 851개를 YOLO v11-segment 모델을 이용하여 종아리 라벨링 후, 종아리를 11자로 두고 있는지, X자로 두고 있는지 확인합니다.
 
 ## 🎓 팀원 소개
-|윤승민👑|이 빈|박유노|정찬혁|이지명|
+|윤승민 👑|이 빈|박유노|정찬혁|이지명|
 |------|---|---|---|---|
 |<a href="https://github.com/seungmin06">seungmin06</a>|<a href="https://github.com/LeeBhin">LeeBhin</a>|<a href="https://github.com/hia1234">hia1234</a>|<a href="https://github.com/Developer-Duck">Developer-Duck</a>|<a href="https://github.com/LZM08">LZM08</a>|
 
