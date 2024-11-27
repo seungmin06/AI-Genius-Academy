@@ -1,6 +1,6 @@
 ## 🎓 AI 자세교정 의자 "로컬디스크 C"
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbGvXFZ%2FbtsKOM9wo1H%2F172rBmaE6NHV1I74LeAom1%2Fimg.png" style="width:400px">
-<p>LG CNS에서 주최하는 대회인 <b>AI Genius Academy</b>에 참여하여 대상을 받은 프로젝트입니다.</p>
+<p>LG CNS에서 주최하는 대회인 <b>AI Genius Academy</b>에 참여하여 대상을 받은 프로젝트입니다.</p> 
 
  
 ## 🎓 프로젝트 소개
